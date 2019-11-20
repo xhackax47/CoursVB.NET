@@ -1,0 +1,10 @@
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbprojResolveAssemblyReference.cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb

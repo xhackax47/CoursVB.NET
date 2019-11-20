@@ -1,0 +1,11 @@
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\bin\Debug\BanderoleLumineuse.exe.config
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\bin\Debug\BanderoleLumineuse.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\bin\Debug\BanderoleLumineuse.pdb
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\bin\Debug\BanderoleLumineuse.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\obj\Debug\BanderoleLumineuse.vbprojResolveAssemblyReference.cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\obj\Debug\BanderoleLumineuse.Form1.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\obj\Debug\BanderoleLumineuse.Resources.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\obj\Debug\BanderoleLumineuse.vbproj.GenerateResource.Cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\obj\Debug\BanderoleLumineuse.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\obj\Debug\BanderoleLumineuse.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\BanderoleLumineuse\BanderoleLumineuse\obj\Debug\BanderoleLumineuse.pdb
