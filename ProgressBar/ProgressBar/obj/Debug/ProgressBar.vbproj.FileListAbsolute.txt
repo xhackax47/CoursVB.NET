@@ -1,0 +1,10 @@
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\bin\Debug\ProgressBar.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Resources.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.vbproj.GenerateResource.Cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
