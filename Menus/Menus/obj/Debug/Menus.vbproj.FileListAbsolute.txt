@@ -1,0 +1,11 @@
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\bin\Debug\Menus.exe.config
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\bin\Debug\Menus.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\bin\Debug\Menus.pdb
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\bin\Debug\Menus.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\obj\Debug\Menus.vbprojResolveAssemblyReference.cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\obj\Debug\Menus.Form1.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\obj\Debug\Menus.Resources.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\obj\Debug\Menus.vbproj.GenerateResource.Cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\obj\Debug\Menus.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\obj\Debug\Menus.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\Menus\Menus\obj\Debug\Menus.pdb
