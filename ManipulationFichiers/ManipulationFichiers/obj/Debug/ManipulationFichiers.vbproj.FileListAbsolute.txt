@@ -1,0 +1,11 @@
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\bin\Debug\ManipulationFichiers.exe.config
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\bin\Debug\ManipulationFichiers.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\bin\Debug\ManipulationFichiers.pdb
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\bin\Debug\ManipulationFichiers.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\obj\Debug\ManipulationFichiers.vbprojResolveAssemblyReference.cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\obj\Debug\ManipulationFichiers.Main.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\obj\Debug\ManipulationFichiers.Resources.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\obj\Debug\ManipulationFichiers.vbproj.GenerateResource.Cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\obj\Debug\ManipulationFichiers.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\obj\Debug\ManipulationFichiers.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ManipulationFichiers\ManipulationFichiers\obj\Debug\ManipulationFichiers.pdb
