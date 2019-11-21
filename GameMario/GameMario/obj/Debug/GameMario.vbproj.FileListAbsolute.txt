@@ -1,0 +1,11 @@
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\bin\Debug\GameMario.exe.config
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\bin\Debug\GameMario.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\bin\Debug\GameMario.pdb
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\bin\Debug\GameMario.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\obj\Debug\GameMario.vbprojResolveAssemblyReference.cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\obj\Debug\GameMario.GameMario.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\obj\Debug\GameMario.Resources.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\obj\Debug\GameMario.vbproj.GenerateResource.Cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\obj\Debug\GameMario.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\obj\Debug\GameMario.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\GameMario\GameMario\obj\Debug\GameMario.pdb
