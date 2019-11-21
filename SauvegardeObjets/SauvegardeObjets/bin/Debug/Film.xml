@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Film xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Titre>Twilight 3</Titre>
+  <Annee>2010</Annee>
+  <Description>Troisième volet de la quadrilogie Twilight</Description>
+</Film>

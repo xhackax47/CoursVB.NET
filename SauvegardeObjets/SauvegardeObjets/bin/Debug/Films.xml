@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <Titre>Avatar</Titre>
+    <Annee>2009</Annee>
+    <Description>Avatar, film de James Cameron sorti en Décembre 2009.</Description>
+  </Film>
+  <Film>
+    <Titre>Twilight 3</Titre>
+    <Annee>2010</Annee>
+    <Description>Troisième volet de la quadrilogie Twilight</Description>
+  </Film>
+</ArrayOfFilm>

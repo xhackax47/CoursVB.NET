@@ -1,0 +1,10 @@
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\bin\Debug\SauvegardeObjets.exe.config
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\bin\Debug\SauvegardeObjets.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\bin\Debug\SauvegardeObjets.pdb
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\bin\Debug\SauvegardeObjets.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\obj\Debug\SauvegardeObjets.vbprojResolveAssemblyReference.cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\obj\Debug\SauvegardeObjets.Resources.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\obj\Debug\SauvegardeObjets.vbproj.GenerateResource.Cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\obj\Debug\SauvegardeObjets.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\obj\Debug\SauvegardeObjets.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\SauvegardeObjets\SauvegardeObjets\obj\Debug\SauvegardeObjets.pdb
