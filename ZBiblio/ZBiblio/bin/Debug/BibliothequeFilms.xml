@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <Name>300</Name>
+    <ReleaseDate>2007-03-21T10:55:58</ReleaseDate>
+    <Director>Zack Snyder</Director>
+    <Gender1>Péplum</Gender1>
+    <Gender2>Action</Gender2>
+    <Actors>Gérard Butler, Lena Headey, Rodrigo Santoro, David Wenham, Dominic West, Vincent Regan, Michael Fassbender, Tom Wisdom</Actors>
+    <Synopsis>Adapté du roman graphique de Frank Miller, 300 est un récit épique de la Bataille des Thermopyles, qui opposa en l'an - 480 le roi Léonidas et 300 soldats spartiates à Xerxès et l'immense armée perse. Face à un invincible ennemi, les 300 déployèrent jusqu'à leur dernier souffle un courage surhumain ; leur vaillance et leur héroïque sacrifice inspirèrent toute la Grèce à se dresser contre la Perse, posant ainsi les premières pierres de la démocratie.</Synopsis>
+    <PersonalView>Très bon film avec une très bonne qualité photographique et sonore et des scènes d'action à couper le souffle.</PersonalView>
+    <Note>18</Note>
+  </Movie>
+</ArrayOfMovie>

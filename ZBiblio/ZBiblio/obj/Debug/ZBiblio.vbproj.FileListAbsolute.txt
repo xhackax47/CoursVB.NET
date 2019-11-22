@@ -1,0 +1,12 @@
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\bin\Debug\ZBiblio.exe.config
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\bin\Debug\ZBiblio.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\bin\Debug\ZBiblio.pdb
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\bin\Debug\ZBiblio.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\obj\Debug\ZBiblio.vbprojResolveAssemblyReference.cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\obj\Debug\ZBiblio.AddEditionMovie.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\obj\Debug\ZBiblio.ZBiblio.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\obj\Debug\ZBiblio.Resources.resources
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\obj\Debug\ZBiblio.vbproj.GenerateResource.Cache
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\obj\Debug\ZBiblio.exe
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\obj\Debug\ZBiblio.xml
+c:\users\y0771889\onedrive - arcelormittal\documents\visual studio 2015\Projects\ZBiblio\ZBiblio\obj\Debug\ZBiblio.pdb
